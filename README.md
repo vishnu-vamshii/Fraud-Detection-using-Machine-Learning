@@ -9,7 +9,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - **Exploratory Data Analysis (EDA):** Understand trends, correlations, and distributions in the dataset.
 - **Data Preprocessing:** Handle class imbalance using techniques like SMOTE, and scale features for optimal performance.
 - **Machine Learning Models:** Implement various algorithms including Logistic Regression, Random Forest, and Gradient Boosting.
-- **Evaluation Metrics:** Use precision, recall, F1-score, and AUC-ROC to assess model performance.
+- **Evaluation Metrics:** Use precision, recall and F1-score to assess model performance.
 - **Visualizations:** Include interactive visualizations for model insights and fraud patterns.
 
 ---
